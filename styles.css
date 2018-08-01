@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+  text-align: center;
+}
+
+a {
+  background-color: dodgerblue;
+  color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+  min-width: 100px;
+  max-width: 200px;
+  text-decoration: none;
+  font-weight: 500;
+}
